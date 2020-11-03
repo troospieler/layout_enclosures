@@ -1,0 +1,35 @@
+body {
+  background-color: black;
+  margin: 0;
+}
+
+.outer {
+  margin: 20px;
+  margin-bottom: 40px;
+  padding: 10px;
+  background-color: #308dc0;
+  width: 328px;
+}
+
+.middle {
+  margin: 0;
+  padding: 10px;
+  background-color: #ffa500;
+}
+
+.inside {
+  margin: 0;
+  padding: 10px;
+  background-color: #ddd;
+}
+
+.box {
+  border-style: solid;
+  border-color: #db5857;
+  border-width: 1px;
+}
+
+p {
+  margin: 0;
+  padding: 0;
+}
